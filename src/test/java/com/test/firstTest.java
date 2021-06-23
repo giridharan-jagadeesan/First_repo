@@ -29,7 +29,7 @@ public class firstTest {
 
 // 		System.out.println("after update");
 // 		json.put("build_id", 101);
-		System.out.println(json.get("build_id"));
+// 		System.out.println(json.get("build_id"));
 
 	}
 
